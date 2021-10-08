@@ -9,7 +9,7 @@ What is Shell Assistant?
 Download
 ========
 You may download this application for MacOS, Linux or Windows from the application's website at: http://www.shellassistant.com.
-The application is currently in late state beta development.
+The application is currently in late stage beta development. To report bugs or suggest features, please use the GitHub Issues tab at the top of this page.
 
 Screenshots
 ===========
