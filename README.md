@@ -8,8 +8,11 @@ What is Shell Assistant?
 
 Download
 ========
-Shell Assistant is available on MacOS, Linux or Windows platforms. Tou can download from our website at: http://shellassistant.com.
-Please use the GitHub "Issues" tab at the top of this page to report issues or suggest new features.
+Shell Assistant is available on MacOS, Linux or Windows platforms.
+
+To download please visit our website at: http://shellassistant.com.
+
+Use the GitHub "Issues" tab at the top of this page to report issues or suggest new features.
 
 Screenshots
 ===========
