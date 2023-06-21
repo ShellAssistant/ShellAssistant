@@ -8,41 +8,46 @@ What is Shell Assistant?
 
 Download
 ========
-You may download this application for MacOS, Linux or Windows from the application's website at: http://www.shellassistant.com.
-The application is currently in late stage beta development. To report bugs or suggest features, please use the GitHub Issues tab at the top of this page.
+Shell Assistant is available on MacOS, Linux or Windows platforms. Tou can download from our website at: http://shellassistant.com.
+Please use the GitHub "Issues" tab at the top of this page to report issues or suggest new features.
 
 Screenshots
 ===========
+![Intro](/images/Intro.png "Intro")
 
 Terminal
 --------
-![Terminal](/images/terminal.png "Terminal")
+![Terminal](/images/Terminal.png "Terminal")
 
 File Manager
 ------------
-![File Manager](/images/files.png "File Manager")
+![File Manager](/images/FileManager.png "File Manager")
 
 File Transfers
 --------------
-![File Transfers](/images/transfers.png "File Transfers")
+![File Transfers](/images/FileTransfers.png "File Transfers")
 
 Tab & Docking Layout
 --------------------
-![Tab & Docking Layout](/images/docktab.png "Tab & Docking Layout")
+![Tab & Docking Layout](/images/Workspaces.png "Tab & Docking Layout")
 
 Code Editor
 -----------
-![Code Editor](/images/code.png "Code Editor")
+![Code Editor](/images/CodeEditor.png "Code Editor")
 
-Connections
+Connection Management
 -----------
-![Connections](/images/connection.png "Connections")
+![Connections](/images/Connection.png "Connection Management")
+
+Password Management
+--------------
+![Connections](/images/Password.png "Password Management")
 
 Key Management
 --------------
-![Connections](/images/keys.png "Connections")
+![Connections](/images/Keys.png "Key Management")
 
-Tunnels
+Network Tunnels
 -------
-![Tunnels](/images/tunnels.png "Tunnels")
+![Tunnels](/images/Tunnels.png "Network Tunnels")
 
